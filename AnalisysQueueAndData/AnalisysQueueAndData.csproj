@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="EventStore.SDK" Version="1.3.0" />
+    <PackageReference Include="EventStore.SDK" Version="1.7.0" />
     <PackageReference Include="Microsoft.AspNet.SignalR.Client" Version="2.2.2" />
     <PackageReference Include="Microsoft.AspNet.SignalR.Core" Version="2.2.2" />
     <PackageReference Include="Microsoft.Owin" Version="3.1.0" />
